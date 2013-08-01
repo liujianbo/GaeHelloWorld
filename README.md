@@ -1,4 +1,0 @@
-GaeHelloWorld
-=============
-
-GaeHelloWorld project
